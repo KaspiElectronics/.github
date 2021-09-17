@@ -6,6 +6,8 @@ KaspiElectronics is an open-source foundation created for develop open-source Io
 ## Our Projects
 We currently work on [Karduino](https://github.com/KaspiElectronics/Karduino), it's a redesigned version of arduino platform based on a subset of python language.
 
+## How to reach us?
+- Email : [KaspiElectronics@protonmail.com](mailto:KaspiElectronics@protonmail.com)
 <!--
 
 **Here are some ideas to get you started:**
