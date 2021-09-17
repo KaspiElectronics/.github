@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hi this is us 👋
 
+## Introduction
+KaspiElectronics is an open-source foundation created for develop open-source IoT and AI technologies.
 <!--
 
 **Here are some ideas to get you started:**
