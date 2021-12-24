@@ -1,4 +1,4 @@
-# Hi this is us 👋
+# Hi, this is us 👋
 
 ## Introduction
 KaspiElectronics is an open-source foundation created to developing open-source IoT and AI projects.
