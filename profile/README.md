@@ -1,20 +1,10 @@
 # Hi this is us 👋
 
 ## Introduction
-KaspiElectronics is an open-source foundation created for develop open-source IoT and AI technologies.
+KaspiElectronics is an open-source foundation created to developing open-source IoT and AI projects.
 
 ## Our Projects
 We currently work on [Karduino](https://github.com/KaspiElectronics/Karduino), it's a redesigned version of arduino platform based on a subset of python language.
 
 ## How to reach us?
 - Email : [KaspiElectronics@protonmail.com](mailto:KaspiElectronics@protonmail.com)
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
