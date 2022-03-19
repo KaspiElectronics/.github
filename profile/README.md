@@ -7,4 +7,4 @@
 We currently work on , .
  -->
 ## How to reach us?
-- Email : [KaspiElectronics@protonmail.com](mailto:KaspiElectronics@protonmail.com)
+- Email : [KaspiElectronics@pm.me](mailto:KaspiElectronics@pm.me)
