@@ -8,3 +8,4 @@ We currently work on , .
  -->
 ## How to reach us?
 - Email : [KaspiElectronics@pm.me](mailto:KaspiElectronics@pm.me)
+- Our Blog(Persian) : [https://percept.ir/@kaspi_elec](https://percept.ir/@kaspi_elec)
